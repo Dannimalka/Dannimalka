@@ -2,7 +2,6 @@
 
 ## I'm a Fullstack Developer.
 
-***
 
 
 
