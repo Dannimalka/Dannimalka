@@ -1,6 +1,6 @@
 ### Hi there I'm Danni👋
 
-## I'm a Fullstack Developer
+## I'm a Fullstack Developer.
 
 ***
 
